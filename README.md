@@ -37,11 +37,3 @@ We welcome contributions from the community. Check out our [contribution guideli
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
-
-## Acknowledgments
-
-[Optional: Acknowledge contributors, libraries, or any other resources]
-
----
-
-**Note:** Replace "link-to-contributing-guide" and "link-to-license" with the actual URLs for your contributing guidelines and license information. Customize the content based on your project's specific features and goals. Feel free to add or remove sections as needed.
