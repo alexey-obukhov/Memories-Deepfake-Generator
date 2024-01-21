@@ -1,6 +1,6 @@
 # Forever Memories - Deepfake
 
-Welcome to Forever Memories - Deepfake, where we merge cutting-edge deepfake technology with ethical standards to create meaningful videos that pay tribute to your loved ones.
+Welcome to Forever Memories - Deepfake, where we merge deepfake technology with ethical standards to create meaningful videos that pay tribute to your loved ones.
 
 ## About
 
