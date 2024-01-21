@@ -28,10 +28,6 @@ If you find a bug, please open a GitHub issue and include the following details:
 
 We welcome ideas for new features. Please open a GitHub issue and provide a detailed description of the proposed feature.
 
-## Code of Conduct
-
-Please note that this project is released with a [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you agree to abide by its terms.
-
 ## License
 
 By contributing to Forever Memories - Deepfake, you agree that your contributions will be licensed under the [MIT License](./LICENSE).
