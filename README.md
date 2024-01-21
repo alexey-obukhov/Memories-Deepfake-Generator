@@ -32,11 +32,11 @@ Explore the codebase, contribute to development, and join us in redefining how w
 
 ## Contributing
 
-We welcome contributions from the community. Check out our [contribution guidelines](link-to-contributing-guide) to get started.
+We welcome contributions from the community. Check out our [contribution guidelines](./CONTRIBUTING) to get started.
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgments
 
