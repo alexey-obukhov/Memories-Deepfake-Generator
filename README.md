@@ -32,7 +32,7 @@ Explore the codebase, contribute to development, and join us in redefining how w
 
 ## Contributing
 
-We welcome contributions from the community. Check out our [contribution guidelines](./CONTRIBUTING) to get started.
+We welcome contributions from the community. Check out our [contribution guidelines](./CONTRIBUTING.md) to get started.
 
 ## License
 
